@@ -1,4 +1,4 @@
-# MachineHack Great Indian Hackathon, Rank 382 
+# MachineHack Great Indian Hackathon, Rank 373 
 
 URL: https://www.machinehack.com/hackathons/retail_price_prediction_mega_hiring_hackathon/overview
 
