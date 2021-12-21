@@ -1,4 +1,5 @@
 # MachineHack Great Indian Hackathon, Rank 110 
+Total participants 5000+
 
 URL: https://machinehack.com/hackathon/retail_price_prediction_mega_hiring_hackathon/leaderboard
 
