@@ -1,6 +1,6 @@
-# MachineHack Great Indian Hackathon, Rank 373 
+# MachineHack Great Indian Hackathon, Rank 110 
 
-URL: https://www.machinehack.com/hackathons/retail_price_prediction_mega_hiring_hackathon/overview
+URL: https://machinehack.com/hackathon/retail_price_prediction_mega_hiring_hackathon/leaderboard
 
 ### Dataset Description:
 - Train.csv - 284780 rows x 8 columns (Inlcudes UnitPrice Columns as Target)
